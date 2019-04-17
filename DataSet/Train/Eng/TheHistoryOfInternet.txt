@@ -1,0 +1,8 @@
+Before 1957, computers only worked on one task at a time. This is called Batch Processing. Of course, this was quite ineffective. With computers getting bigger and bigger they had to be stored in special cooled rooms. But then the developers couldn't work directly on the computers any more. Specialists had to be called in to connect them. Programming back then meant a lot of manual work and the indirect connection to the computers meant a lot of bugs, wasting time and fraying the developers' nerves. 
+
+The year 1957 marked a big change. A remote connection had to be installed so that the developers could work directly on the computers. At the same time, the idea of time-sharing came up. This is the first concept in computer technology: to share the processing power of one computer with multiple users. 
+
+On October 4th in 1957 during the Cold War, the first unmanned satellite, Sputnik 1, was sent into orbit by the Soviet Union. The fear of a missile gap emerged. In order to secure America's lead in technology the US founded the Defence Advanced Research Project Agency in February 1958. At that time, knowledge was only transferred by people. The DARPA planned a large-scale computer network in order to accelerate knowledge transfer and avoid the doubling up of already existing research. This network would become the ARPANET. 
+
+Furthermore, three other concepts were to be developed, which are fundamental to the history of the Internet. The concept of a military network by the RAND Corporation in America, the commercial network of the National Physical Laboratory in England, and the scientific network, CYCLADES, in France. The scientific, military and commercial approaches of these concepts are the foundations for our modern Internet. 
+
