@@ -3,7 +3,23 @@
 Le but de ce projet est d'avoir un programme capable de detecter la langue d'un texte.
 
 ## Organisation du projet
-
+Notre projet s'organise simplement :
+```
+La racine
+  |__________ DataSet
+  |             |_______ Evaluation -> Fichiers texts qui nous permettent de tester notre programmes après l'avoir entrainé
+  |             |_______ Test -> Fichiers texts qui nous permettent de tester notre programme en démonstration
+  |             |_______ Train -> Fichiers texts qui entrainent notre programmes à contruire les dictionnaires des langues
+  | 
+  |__________ LangDetection
+  |             |___________ Final.py
+  |             |___________ ReadFiles.py
+  |             |___________ Token.py
+  |             |___________ Vect.py
+  |
+  |____ Main.py
+  |____ README.md
+```
 
 ## Faire tourner le programme
 
